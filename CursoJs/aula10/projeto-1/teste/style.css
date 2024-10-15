@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+    font: normal 1.3rem arial;
+    box-sizing: border-box;
+}
+
+header{
+    color: white;
+}
+section{
+    background-color: white;
+    margin: auto;
+    padding-block: 20px;
+    height: 300px;
+    width: 400px;
+    border-radius: 5px 5px ;
+}
+.foto{
+    border-radius:70% ;
+    max-width: 300px;
+    max-height: 300px;
+}

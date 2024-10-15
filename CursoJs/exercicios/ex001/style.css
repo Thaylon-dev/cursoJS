@@ -1,0 +1,33 @@
+body{
+    background:rgb(70, 142, 236) ;
+    font: normal 1.6rem arial;
+}
+header{
+    color: white;
+    text-align: center;
+}
+section{
+    background: white;
+    border-radius:10px ;
+    padding: 15px;
+    max-width: 500px;
+    margin: auto;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.363);
+   
+    /*EU QUIS COLOCAR ISSO , NÃO MANJO DE EDITOR DE IMAGE*/
+}
+section p {
+
+    display: flex;
+    flex-direction:column;
+    max-width: 300px;
+}
+input{
+    padding: 10px;
+    margin: 10px;
+}
+footer{
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
